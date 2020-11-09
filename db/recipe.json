@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Winstons favorite - Turkey and Things",
+    "ingredients": [
+      "lb Ground Turkey",
+      "1c Frozen Kale",
+      "1c Chopped Pumkin",
+      "1c Chopped Greenbeans",
+      "1 Thinly sliced Carrot coined",
+      "1 diced Apple",
+      "4c Vegetable Stock, 1 tbls coconut oil "
+    ],
+    "tools": ["6 qt Crockpot", "Wooden Spoon", "Dog"],
+    "directions": [
+      "Open your crockpot, place all ingredients inside, incrementing stock and stirring while you add all the ingredients.",
+      "Once all ingredients have been added to your crockpot - turn crockpot to low and cook for four hours, stirring once an hour to prevent sticking."
+    ],
+    "aditional_comments": "should yield 6 qts, I place mine in 2-quart containers, leaving one out for our next feeding - freezing the left remaining- Look out for a happy pup!"
+  },
+
+  {
+    "title": "Beagles Love Bison",
+    "ingredients": [
+      "lb Bison",
+      "15 oz can of Oragnic Kidney Beans",
+      "1c Frozen Peas",
+      "1 Thinly sliced Carrot coined",
+      "4c Vegetable Stock, 1 tbls coconut oil"
+    ],
+    "tools": ["6 qt Crockpot", "Wooden Spoon", "Dog"],
+    "directions": [
+      "Open your crockpot, place all ingredients inside, incrementing stock and stirring while you add all the ingredients.",
+      "Once all ingredients have been added to your crockpot - turn crockpot to low and cook for four hours, stirring once an hour to prevent sticking."
+    ],
+    "aditional_comments": "should yield 6 qts, I place mine in 2-quart containers, leaving one out for our next feeding - freezing the left remaining- Look out for a happy pup!"
+  },
+
+  {
+    "title": "Chow 'n' Down on Chicken",
+    "ingredients": [
+      "lb Ground Chicken",
+      "1 can organinc Pumkin puree",
+      " 1/2 lb of diced potatoes",
+      "1c Chopped Greenbeans",
+      "1 Thinly sliced Carrots coined",
+      "1 diced Apple",
+      "4c Vegetable Stock, 1 tbls coconut oil "
+    ],
+    "tools": ["6 qt Crockpot", "Wooden Spoon", "Dog"],
+    "directions": [
+      "Open your crockpot, place all ingredients inside, incrementing stock and stirring while you add all the ingredients.",
+      "Once all ingredients have been added to your crockpot - turn crockpot to low and cook for four hours, stirring once an hour to prevent sticking."
+    ],
+    "aditional_comments": "should yield 6 qts, I place mine in 2-quart containers, leaving one out for our next feeding - freezing the left remaining- Look out for a happy pup!"
+  }
+]
