@@ -1,7 +1,7 @@
 const mongoose = require ("mongoose");
 mongoose.connect("mongodb://localhost/recipe", {usedNewUrlParser:true})
 module.exports = mongoose;
-const mongoURI = "mongodb://localhost/recipe"
+
 
 let mongoURI = "";
 
