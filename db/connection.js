@@ -1,13 +1,16 @@
-const mongoose = require ("mongoose");
-mongoose.connect("mongodb://localhost/recipe", {usedNewUrlParser:true})
-module.exports = mongoose;
+const mongoose = require("mongoose");
 
 
 let mongoURI = "";
 
-if(process.env.NODE_ENV === "production"){
-    mongoURI = process.env.DB_URL;
-}else {
-    mongoURI = "mongodb://localhost/recipe";
+if (process.env.NODE_ENV === "production") {
+  mongoURI = process.env.DB_URL;
+} else {
+  mongoURI = "mongodb://localhost/recipe";
 }
+mongoose.connect( mongoURI, {
+  useUnifiedTopology: true,
+});
+module.exports = mongoose
 
+// usedNewUrlParser: true
