@@ -59,8 +59,12 @@ app.delete("/recipe/:title", (req, res) => {
     });
 });
 
-app.set("1717", process.env.PORT || 8800);
+app.set("port", process.env.PORT || 8080);
 
-app.listen(app.get("1717"), () => {
-  console.log('check PORT: ${app.get("1717")} star');
+app.listen(app.get("port"), () => {
+  console.log(`✅ PORT: ${app.get("port")} 🌟`);
 });
+
+// app.listen(1717, () => {
+//   console.log("Listening on port 1717");
+// });
