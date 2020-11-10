@@ -1,6 +1,5 @@
 const mongoose = require("mongoose");
 
-
 let mongoURI = "";
 
 if (process.env.NODE_ENV === "production") {
@@ -8,9 +7,9 @@ if (process.env.NODE_ENV === "production") {
 } else {
   mongoURI = "mongodb://localhost/recipe";
 }
-mongoose.connect( mongoURI, {
+mongoose.connect(mongoURI, {
   useUnifiedTopology: true,
 });
-module.exports = mongoose
+module.exports = mongoose;
 
 // usedNewUrlParser: true
