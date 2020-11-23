@@ -1,24 +1,54 @@
 # Dog-Food-APi-x-Express
 
-Description
-What your project is / should be used for
-What problem(s) your projects solves
-Brief Example
-This could be a code snippet showing how your project should be used (if it is meant to be integrated into another app)
+Description:
+I've created a Dog Food API - This project is intended to inspire dog owners to create healthy meals for their pets.
+
+My project solves the problem of creating inexpenseive healty meals for pets. 
+
+
+
+Brief Example: 
+ <!-- routes created JSON screen shoot --> -->
+
+ ![GitHub JSON IMG](https://user-images.githubusercontent.com/50599892/99583077-fb2dd580-29b0-11eb-9cec-277c5fd57582.png)
+ 
+
+
 This could be a screenshot of your project running in the browser (if it is a stand-alone application)
-List of Features / User Stories
-This typically will be a short list of the features / user stories that you planned during the development phase of the project
-To provide more detail, you can show how you categorized these features into Bronze (MVP), Silver, and Gold Levels and indicate which features you complete / have yet to complete
-List of Technologies Used
-Often you will want to list the technologies you used to create the project.
-This typically would consist of all primary languages, frameworks, and libraries your app is composed of
-This is particularly important when it comes to recruiters scanning your projects for keywords
-Installation Instructions / Getting Started
-This section should walk a reader, step by step, through the process of setting up your project
-For a tool meant to be integrated into other projects, this would likely outline the process of installing and accessing this tool in your project
-For an application, this would likely outline the process of forking, cloning, and starting the app locally
-Contribution Guidelines
-This section should offer guidance on where and how users can contribute to your code, identify bugs, and propose improvements
-Good links to include are:
-A link to the project's main repository
-A link to the project's issue tracker
+
+
+List of Features / User Stories:
+I've implemented full CRUD functionality to my API;  
+C - create a recipe title 
+R - read recipe directions 
+U - updating current recipe titles  
+D - delete a recipe title 
+
+Gold: I Would like for users to be able to add thier own recipes with imagery. 
+
+
+
+List of Technologies Used:
+
+Mongoose
+Express 
+Mongo 
+Postman
+JavaScript 
+
+Installation Instructions / Getting Started:
+ <!-- Push reop - disapeared _ Clone - terminal - Instal dep -Seed -nodemon_ be specific  -->
+
+
+
+Contribution Guidelines:
+<!-- future goals _ BUG or recomends- git add comments -->
+
+Git Repo:
+git@github.com:WinstonAC/Dog-Food-APi-x-Express.git
+
+Issuse tracker:
+https://github.com/WinstonAC/Dog-Food-APi-x-Express/issues/1#issue-745972967
+
+Heroku:
+lit-scrubland-80289

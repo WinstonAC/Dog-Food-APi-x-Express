@@ -12,4 +12,3 @@ mongoose.connect(mongoURI, {
 });
 module.exports = mongoose;
 
-// usedNewUrlParser: true
